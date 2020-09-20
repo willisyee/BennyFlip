@@ -1,0 +1,13 @@
+Project Name: BennyFlip
+
+Description:
+This is a game derived from "VoltorbFlip", a minigame introduced in Pokemon Heartgold. It plays like mix of Picross and Minesweeper.
+You will be trying to locate as many points on a grid, while trying to avoid encountering a Benny. Doing so results in a game over.
+Utilize the hints on the sides of grid to avoid this! Best of luck! 
+
+Responsibliities:
+Bethany Hellerich - learn swing, graphics & gui integration, Q/A playtesting and debugging, core game design. 
+Jay Maglione - learn swing, junit testing, Q/A playtesting and debugging, core game design
+Willis Yee - learn swing, sound integration, Q/A playtesting and debugging, core game design
+
+https://github.com/UPenn-CIT599/Voltorb/tree/experiment
